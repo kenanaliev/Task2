@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+     font-family: 'Chivo', sans-serif;
+}
+img {
+     max-width: 100%;
+} 
+ul {
+    list-style: none;
+}
+a {
+     text-decoration:none;
+     color: white;
+}
+.wrapper {
+     padding-left: 100px;
+     padding-right: 100px;
+}
+#header {
+     background-image: url(https://preview.colorlib.com/theme/easylo/assets/img/hero/h1_hero1.jpg.webp);
+     height: 100vh;
+     background-repeat: no-repeat; 
+     
+}
+.logo {
+     float: left;
+}
+.nav{
+     float: right;
+}
+.nav .links  {
+     display:inline-block;
+     padding: 36px 10px;
+}
+.logo{
+     padding: 15px 0px;
+}
+.button {
+     padding: 15px 25px;
+     background-color: green;
+     display: inline-block;
+}
+
+
